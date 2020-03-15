@@ -5,3 +5,12 @@ This is an exploration of the application of
 to [Prioritization Matrices](https://blog.transparentchoice.com/project-prioritization-matrix)
 in order to optimize the number of criteria (columns).
 
+## Usage
+
+```
+./setup.sh
+./run.sh
+```
+
+And click `PCA on a Prioritization Matrix.ipynb`
+
